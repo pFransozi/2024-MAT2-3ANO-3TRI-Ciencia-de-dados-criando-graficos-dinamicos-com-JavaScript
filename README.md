@@ -6,13 +6,23 @@ Projeto realizado junto ao 3 ano do EM na disciplina de Matemática II baseado n
 
 ## Rúbricas
 
-* **Aula 01**
+* **Aula 02**
   * Criar uma pasta chamada "Redes-Sociais" e dois arquivos, index.html e style.css, no VS Code;
   * Adicionar elementos ao HTML, como as tags `<header>`, `<main>` e `<footer>` para estruturar a página com cabeçalho, conteúdo principal e rodapé;
   * Adicionar título com a tag `<h1>` e links de navegação dentro de uma tag `<nav>` para organizar o cabeçalho da página;
   * Definir o conteúdo principal e rodapé, posicionando uma seção no `<main>` para inserir gráficos.
+* Aula 03
+  * Adicionar fontes ao projeto, buscando no Google Fonts e importando no arquivo CSS;
+  * Definir uma paleta de cores, buscando no Color Hunt e configurando variáveis no arquivo CSS para usá-las no projeto;
+  * Aplicar estilos em elementos do projeto, configurando a aparência com cores de fundo, texto e fonte personalizada no `body`, `h1`, `header`, `nav` a e `footer`;
+  * Criar uma animação simples com efeitos de `hover` nos links para uma interação mais dinâmica e agradável.
 
 
 ## Ideias
 
 ## Links
+
+[Google Fonts](https://fonts.google.com/);
+
+[Color Hunt](https://colorhunt.co/);
+
