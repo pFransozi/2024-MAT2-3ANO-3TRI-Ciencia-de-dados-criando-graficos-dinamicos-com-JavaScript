@@ -25,9 +25,31 @@ Projeto realizado junto ao 3 ano do EM na disciplina de Matemática II baseado n
   * Criar um parágrafo com dados da API através do JavaScript;
   * Escrever um texto dinâmico usando template strings, concatenando texto e dados extraídos da API;
   * Utilizar o `appendChild()` no JavaScript para adicionar um parágrafo na seção existente do HTML.
+* **Aula 06**
+  * Usar o CSS para ajustar a margem do texto e centralizá-lo na tela;
+  * Melhorar o visual e facilitar a leitura, aumentando a fonte e formatando o texto;
+  * Criar uma borda ao redor do texto e destacar números importantes usando a tag `<span>`;
+  * Integrar estilos personalizados diretamente no HTML.
 
 
 ## Ideias
+
+* **Aula 06**
+  * Como funciona a tag `<span>`: A tag `<span>` é uma ferramenta poderosa e versátil para estilizar partes específicas do textos nas suas páginas. É uma maneira simples de dar vida ao site, permitindo personalizações detalhadas e tornando seu conteúdo mais atrativo e fácil de ler.
+
+    ```
+    <p>Eu amo livros e música!</p>
+    ```
+
+    ```
+    .especial {
+         font-size: 20px; 
+         background-color: yellow;  
+      }
+    ```
+    ```
+    <p>Eu amo <span class="especial">livros</span> e <span class="especial">música</span>!</p>
+    ```
 
 ## Links
 
