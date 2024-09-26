@@ -21,6 +21,10 @@ Projeto realizado junto ao 3 ano do EM na disciplina de Matemática II baseado n
   * Criar um módulo (`informacoesGlobais.js`) com JavaScript e importá-lo com html;
   * Usar funções assíncronas, garantindo o funcionamento do projeto, enquanto aguarda que a requisição à API seja concluída;
   * Exibir e visualizar dados no console do navegador, através da opção Inspect.
+* **Aula 05**
+  * Criar um parágrafo com dados da API através do JavaScript;
+  * Escrever um texto dinâmico usando template strings, concatenando texto e dados extraídos da API;
+  * Utilizar o `appendChild()` no JavaScript para adicionar um parágrafo na seção existente do HTML.
 
 
 ## Ideias
