@@ -43,6 +43,10 @@ Projeto realizado junto ao 3 ano do EM na disciplina de Matemática II baseado n
   * Criar um arquivo comum para centralizar o código reutilizável por outros arquivos, otimizando a sintaxe e a escrita de códigos novos;
   * Personalizar as barras do gráfico usando a paleta de cores definida no projeto, através do método `getComputedStyle()`;
   * Configurar o layout do gráfico, ajustando o fundo e a área de exibição de barras, mantendo a consistência visual do projeto.
+* **Aula 10**
+  * Adicionar um título ao gráfico, dentro de layout, ajustando posição e configurando a fonte;
+  * Adicionar labels (rótulos) aos eixos x e y para descrever os dados representados;
+  * Usar a propriedade `tickfont` e criar uma nova constante que pode ser reutilizada para configurar as labels (rótulos) dos eixos.
 
 ## Ideias
 
