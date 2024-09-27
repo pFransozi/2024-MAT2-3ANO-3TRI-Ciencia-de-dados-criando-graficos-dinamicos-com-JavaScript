@@ -30,6 +30,10 @@ Projeto realizado junto ao 3 ano do EM na disciplina de Matemática II baseado n
   * Melhorar o visual e facilitar a leitura, aumentando a fonte e formatando o texto;
   * Criar uma borda ao redor do texto e destacar números importantes usando a tag `<span>`;
   * Integrar estilos personalizados diretamente no HTML.
+* **Aula 07**
+  * Simplificar grandes números, transformando valores com matemática, facilitando a leitura e compreensão;
+  * Separar as horas dos minutos e arredondar valores decimais para mostrar apenas o que precisamos;
+  * Calcular porcentagem a partir dos dados tratados anteriormente e praticar storytelling (contar histórias).
 
 
 ## Ideias
