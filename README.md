@@ -34,7 +34,15 @@ Projeto realizado junto ao 3 ano do EM na disciplina de Matemática II baseado n
   * Simplificar grandes números, transformando valores com matemática, facilitando a leitura e compreensão;
   * Separar as horas dos minutos e arredondar valores decimais para mostrar apenas o que precisamos;
   * Calcular porcentagem a partir dos dados tratados anteriormente e praticar storytelling (contar histórias).
-
+* **Aula 08**
+  * Coletar os dados obtidos de uma API e armazenar em um arquivo JavaScript;
+  * Integrar os dados coletados ao arquivo HTML `index.html`;
+  * Utilizar a biblioteca Plotly para criar gráficos de barras com os dados coletados;
+  * Exibir e estruturar o gráfico na página do projeto.
+* **Aula 09**
+  * Criar um arquivo comum para centralizar o código reutilizável por outros arquivos, otimizando a sintaxe e a escrita de códigos novos;
+  * Personalizar as barras do gráfico usando a paleta de cores definida no projeto, através do método `getComputedStyle()`;
+  * Configurar o layout do gráfico, ajustando o fundo e a área de exibição de barras, mantendo a consistência visual do projeto.
 
 ## Ideias
 
